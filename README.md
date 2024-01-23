@@ -1,4 +1,4 @@
-# Hi! Nice to meet you 😄 ![](https://komarev.com/ghpvc/?username=oMntty&style=for-the-badge)
+# Hi! 🤙 ![](https://komarev.com/ghpvc/?username=oMntty&style=for-the-badge)
 
 My name is Gabriel Monteiro, currently living in Brazil, and I am in the process of transitioning from my career in graphic design to becoming a developer.
 
