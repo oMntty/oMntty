@@ -34,7 +34,6 @@ In my free time, I enjoy playing Counter-Strike and streaming on Twitch.
 * I have a graphic design agency called MonttyMedia. 🎥
 * I love reading, and my favorite book is "The Name of the Wind" by Patrick Rothfuss. 📚
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biel_luks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=biel_luks&redirect=true)
 ## <h3 align="left">GitHub Stats</h3>
 <div align="left">
   
